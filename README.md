@@ -537,7 +537,3 @@
 
 （持续更新中....）
 
-
-<a name="公众号"></a>
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
-
